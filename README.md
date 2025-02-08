@@ -53,7 +53,7 @@
 
 | Blog |  
 |--------------|  
-| ![Blog](img/github/blog.png) |  
+| ![Blog](images/github/blog.png) |  
 
 ## 📜 License
 

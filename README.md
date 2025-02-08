@@ -49,11 +49,17 @@
 - ⚠ **Error Handling**: Improve error feedback for users in case of API failures.
 - 🎨 **UI Enhancements**: Add animations and transitions for better interactivity.
 
+## 🎭 Screenshots  
+
+| Blog |  
+|--------------|  
+| ![Blog](img/github/blog.png) |  
+
 ## 📜 License
 
 This project was developed for educational purposes as part of a **college assignment**.
 
 ---
 
-💼 **Author:** Juan Jacobo Florez Monroy | 🚀 Portfolio: [Portfolio Website or GitHub]
+💼 **Author:** Juan Jacobo Florez Monroy | 🚀 **GitHub**: [GitHub](https://github.com/jjacoboflorez95)  
 
